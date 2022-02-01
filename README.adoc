@@ -1,0 +1,8 @@
+= Context Mapper CLI
+
+CLI for https://github.com/ContextMapper/context-mapper-dsl[context mapper].
+
+Created to be use in https://github.com/asciidoctor/asciidoctor-diagram[asciidoctor-diagram].
+
+== Documentation to come
+
