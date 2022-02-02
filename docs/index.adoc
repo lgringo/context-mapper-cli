@@ -1,0 +1,3 @@
+= Welcome to context-mapper-cli
+
+Documentation to come
