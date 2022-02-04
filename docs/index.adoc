@@ -1,3 +1,25 @@
 = Welcome to context-mapper-cli
+:toc:
 
-Documentation to come
+CLI for https://github.com/ContextMapper/context-mapper-dsl[context mapper].
+
+Created to be used in https://github.com/asciidoctor/asciidoctor-diagram[asciidoctor-diagram].
+
+== Limitation
+
+This CLI is meant to produce only `png` or `svg` files. Capabilities like producing `puml` is not available.
+
+== Main goal
+
+This CLI has been made to be embeded into https://github.com/asciidoctor/asciidoctor-diagram[asciidoctor-diagram],
+the size of the final JAR is important.
+
+Moreover, it should offer API taking stream for input and output, to mimic the way `plantuml` and `ditaa` are used.
+
+== Flags
+
+|===
+| Flag | Example | Usage
+
+
+|===
